@@ -9,7 +9,7 @@ variable "location" {
 }
 
 variable "cluster_name" {
-    description = "name of kubernetes cluster"
+    description = "MykubeCluster"
 }
 
 variable "initial_node_count" {
